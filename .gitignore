@@ -1,0 +1,15 @@
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Drafts and scratch files that shouldn't be published
+drafts/
+*.tmp
+*.bak
