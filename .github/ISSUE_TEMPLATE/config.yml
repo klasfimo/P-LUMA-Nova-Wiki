@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Download P-LUMA
+    url: https://github.com/klasfimo/P-LUMA-Nova-Wiki/blob/main/Download.md
+    about: The right jar for your Minecraft version
+  - name: FAQ
+    url: https://github.com/klasfimo/P-LUMA-Nova-Wiki/blob/main/FAQ.md
+    about: Known limitations and common questions

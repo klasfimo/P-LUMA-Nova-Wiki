@@ -60,7 +60,13 @@ Turn on **Reduce motion** on the General page.
 No. P-LUMA makes no network connections of its own. Links on the compatibility page only open in your
 browser when you click them, after a confirmation screen.
 
+### Where do I download it?
+
+From the [Download](Download.md) page or this repository's
+[releases](https://github.com/klasfimo/P-LUMA-Nova-Wiki/releases). Other sites may host outdated or modified
+copies.
+
 ### Where do I report a bug?
 
-Open an issue in this repository with your Minecraft version, the P-LUMA jar name, your mod list and
-`logs/latest.log`.
+[Open an issue](https://github.com/klasfimo/P-LUMA-Nova-Wiki/issues/new/choose) in this repository with your
+Minecraft version, the P-LUMA jar name, your mod list and `logs/latest.log`.

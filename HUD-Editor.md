@@ -38,7 +38,7 @@ with a live preview.
 | Opacity | How see-through the element is |
 | Colour | Accent colour of the element's values; "follow accent" uses P-LUMA's purple |
 | Background | Panel behind the element |
-| Corner | Panel corner radius: small, medium, large |
+| Corner | Panel corners: sharp, soft (default) or round |
 | Panel shadow | Soft shadow under the panel |
 | Text effect | None, shadow or outline, to separate text from the world |
 | Element options | Extra switches for some elements, see [HUD Elements](HUD-Elements.md) |

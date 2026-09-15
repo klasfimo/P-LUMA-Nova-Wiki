@@ -25,7 +25,9 @@ Vanilla keeps the last 100 chat lines. P-LUMA's history setting (on by default) 
 | Unlimited history | on / off | Off |
 | History limit | 100 – 10,000 lines | 1,000 |
 
-With **Unlimited history**, every line of the session stays scrollable and searchable.
+With **Unlimited history**, the session's chat stays scrollable and searchable up to 50,000 lines. That is
+far beyond a normal session; the ceiling only stops a client left running for days on a busy server from
+using more and more memory.
 
 ## Keep across servers
 

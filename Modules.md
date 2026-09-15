@@ -150,6 +150,7 @@ Bind a key or mouse button to a command or a chat message.
 
 Rules that keep macros from getting you kicked:
 
-- Macros only fire in game, with no screen open
+- Macros only fire in game, with no screen open. A key or click that closes a menu doesn't count as a press,
+  even if a macro is bound to it
 - Each macro sends at most once every half second, even if the key is held
 - Up to 50 macros, 256 characters each

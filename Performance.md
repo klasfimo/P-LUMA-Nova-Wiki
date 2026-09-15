@@ -35,7 +35,7 @@ Open **Settings → Performance**.
 | Item cull distance | 8 – 128 blocks | 32 | |
 | Name tag culling | on / off | Off | Hides name tags past the distance |
 | Name tag distance | 4 – 128 blocks | 32 | |
-| Only tags you are looking at | on / off | Off | Hides name tags outside the direction you're facing |
+| Only tags you are looking at | on / off | Off | Hides name tags well outside your view. Follows the camera (free look, third person) and widens with your FOV |
 | Particles per tick | 0 – unlimited | Unlimited | Caps how many particles spawn each tick |
 | Disable weather | on / off | Off | No rain or snow |
 | Disable sky | on / off | Off | No sky, sun, moon or stars |

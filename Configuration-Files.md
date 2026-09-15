@@ -14,9 +14,15 @@ game's `config` folder.
 The files are read carefully, so a hand edit or a damaged file can't break the game:
 
 - Unknown elements, modules or options are ignored
-- Every value is pushed back into its valid range
-- If a file can't be read at all, P-LUMA starts with defaults instead of crashing
+- Every value is pushed back into its valid range; `NaN` or `Infinity` falls back to the default
+- If a file is broken, P-LUMA starts with defaults instead of crashing, and keeps the broken file next to it
+  as `.corrupt` so you can fix or recover it
 - When a file comes from an older P-LUMA version, the old copy is kept next to it as a `.bak`
+- Saves go to a temporary file first and are then swapped in, so a crash or a full disk during a save can't
+  leave you with half a file
+
+Updating to 1.4.5 switches every HUD element's corner to the new **soft** style once. Positions, colours and
+other styles are kept.
 
 ## Borrowed vanilla settings
 
